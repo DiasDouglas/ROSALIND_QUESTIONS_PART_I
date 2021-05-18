@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "I_Counting_DNA_Nucleotides", "ROSALIND_I\I_Counting_DNA_Nucleotides.csproj", "{AE0D4DD3-B6CC-4DBF-A1FE-18C48710C07D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "II_Transcribing_DNA_Into_RNA", "II_Transcribing_DNA_Into_RNA\II_Transcribing_DNA_Into_RNA.csproj", "{0225881D-C96E-4519-9061-DAD0E5D0ABD9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "III_Complementing_a_Strand_of_DNA", "III_Complementing_a_Strand_of_DNA\III_Complementing_a_Strand_of_DNA.csproj", "{DBFC6D03-9023-466F-8310-889B56FE435D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IV_Computing_GC_Content", "IV_Computing_GC_Content\IV_Computing_GC_Content.csproj", "{7EF2C06F-2865-4F80-8252-6725223E56D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE0D4DD3-B6CC-4DBF-A1FE-18C48710C07D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE0D4DD3-B6CC-4DBF-A1FE-18C48710C07D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE0D4DD3-B6CC-4DBF-A1FE-18C48710C07D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE0D4DD3-B6CC-4DBF-A1FE-18C48710C07D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0225881D-C96E-4519-9061-DAD0E5D0ABD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0225881D-C96E-4519-9061-DAD0E5D0ABD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0225881D-C96E-4519-9061-DAD0E5D0ABD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0225881D-C96E-4519-9061-DAD0E5D0ABD9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBFC6D03-9023-466F-8310-889B56FE435D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBFC6D03-9023-466F-8310-889B56FE435D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBFC6D03-9023-466F-8310-889B56FE435D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBFC6D03-9023-466F-8310-889B56FE435D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EF2C06F-2865-4F80-8252-6725223E56D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EF2C06F-2865-4F80-8252-6725223E56D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EF2C06F-2865-4F80-8252-6725223E56D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EF2C06F-2865-4F80-8252-6725223E56D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC616257-1294-4C73-B973-E220428DD42E}
+	EndGlobalSection
+EndGlobal
