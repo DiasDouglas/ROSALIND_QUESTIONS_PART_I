@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IV_Computing_GC_Content", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "I_Counting_DNA_Nucleotides", "I_Counting_DNA_Nucleotides\I_Counting_DNA_Nucleotides.csproj", "{31943E75-6094-43F6-8BDD-AC982F411648}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "V_Translating_RNA_into_Protein", "V_Translating_RNA_into_Protein\V_Translating_RNA_into_Protein.csproj", "{1668FF39-542A-422B-B755-E82F43EDC9DE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{31943E75-6094-43F6-8BDD-AC982F411648}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{31943E75-6094-43F6-8BDD-AC982F411648}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{31943E75-6094-43F6-8BDD-AC982F411648}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1668FF39-542A-422B-B755-E82F43EDC9DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1668FF39-542A-422B-B755-E82F43EDC9DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1668FF39-542A-422B-B755-E82F43EDC9DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1668FF39-542A-422B-B755-E82F43EDC9DE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
