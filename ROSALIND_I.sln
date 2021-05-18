@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "V_Translating_RNA_into_Prot
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VI_Finding_a_Motif_in_DNA", "VI_Finding_a_Motif_in_DNA\VI_Finding_a_Motif_in_DNA.csproj", "{AF59E14D-9A04-4739-83CE-6134BEB084BC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VII_Inferring_mRNA_from_Protein", "VII_Inferring_mRNA_from_Protein\VII_Inferring_mRNA_from_Protein.csproj", "{31A11982-4237-4C42-8DF2-1CFF1DD85EB5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{AF59E14D-9A04-4739-83CE-6134BEB084BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AF59E14D-9A04-4739-83CE-6134BEB084BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AF59E14D-9A04-4739-83CE-6134BEB084BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31A11982-4237-4C42-8DF2-1CFF1DD85EB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31A11982-4237-4C42-8DF2-1CFF1DD85EB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31A11982-4237-4C42-8DF2-1CFF1DD85EB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31A11982-4237-4C42-8DF2-1CFF1DD85EB5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
